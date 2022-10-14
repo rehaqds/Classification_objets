@@ -24,6 +24,7 @@ Ainsi il est réalisé un prétraitement des descriptions des produits et des im
 ![image](https://user-images.githubusercontent.com/108366684/195923626-fdfc19fc-e80d-4d88-8276-7974d31086ee.png)
 
 Analyse des erreurs du modèle MPNET:
+
 Il apparait qu'un certain nombres d' "erreurs" n'en sont pas. Il conviendrait donc de corriger les erreurs de catégorie provenant des vendeurs avant d'exécuter les algorithmes de clustering.
 ![image](https://user-images.githubusercontent.com/108366684/195923958-617e4ce0-53f0-4b12-9ba8-15505574ad5f.png)
 
