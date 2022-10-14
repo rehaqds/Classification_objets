@@ -57,6 +57,5 @@ accuracy de 0.76 sur le jeu de validation (1.00 sur le jeu d’entraînement) et
 
 Les résultats de la présente étude de clustering (ARI>=0.7) sur seulement 1050 produits montrent la faisabilité d’un moteur de classification automatique des produits sur la base d’une description et/ou d’une photo.
 
-Pour le classifieur final, il conviendra d’utiliser beaucoup plus de produits (voire aussi de vérifier manuellement les catégories fournies pour corriger les erreurs) afin d’obtenir de meilleurs scores.
-
+Pour le classifieur final, il conviendra d’utiliser nettement  plus de produits (vérifier aussi manuellement les catégories indiquées dans la base de donnée pour corriger les erreurs) afin d’optimiser les scores.
 
