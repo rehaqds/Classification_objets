@@ -1,4 +1,4 @@
-# Classification automatique des biens de consommation
+# Classification automatique de biens de consommation
 
 
 # 1. Le contexte
